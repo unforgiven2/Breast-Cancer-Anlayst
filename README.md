@@ -6,7 +6,7 @@
 
 -Useing classification at ml
 
--tried to make the data understandable with graphs and useing ProfilReport
+-Tried to make the data understandable with graphs and useing ProfilReport
 
 DATA
 
